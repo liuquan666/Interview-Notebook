@@ -71,7 +71,7 @@
 
   事务、锁、隔离级别、MVCC、间隙锁、范式。
 
-> [SQL](notes/SQL.md)
+> [SQL](notes/SQL.md)（10.4复习一遍）
 
   SQL 基本语法。
 
