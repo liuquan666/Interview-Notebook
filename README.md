@@ -47,7 +47,7 @@
 
   物理层、链路层、网络层、运输层、应用层。
 
-> [HTTP](notes/HTTP.md)
+> [HTTP](notes/HTTP.md)（10.5看完）
 
   方法、状态码、Cookie、缓存、连接管理、HTTPs、HTTP 2.0。
 
